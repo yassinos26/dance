@@ -25,8 +25,7 @@ export function Layout() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex items-center justify-between h-16">
             <div className="flex items-center gap-3">
-              <img src="/src/public/logo.png" alt="BeatMotion Logo" className="w-15 h-15"/>
-              
+              <img src="https://images.stockcake.com/public/0/d/7/0d7878ec-b695-4960-b0f7-833496b79ea7/pink-ballet-dreams-stockcake.jpg" alt="BeatMotion Logo" className="w-15 h-15"/>
               <div>
                 <h1 className="text-xl font-bold bg-gradient-to-r from-purple-600 to-pink-600 bg-clip-text text-transparent">
                   BeatMotion
