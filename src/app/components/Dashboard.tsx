@@ -9,7 +9,7 @@ export function Dashboard() {
     <div className="space-y-6">
       {/* Welcome Section */}
       <div className="bg-gradient-to-r from-purple-600 to-pink-600 rounded-2xl p-8 text-white">
-        <h2 className="text-3xl font-bold mb-2">Welcome back, Sarah! 👋</h2>
+        <h2 className="text-3xl font-bold mb-2">Welcome back, the Champion! 👋</h2>
         <p className="text-purple-100">
           You've improved by {weeklyStats.improvement}% this week. Keep up the great work!
         </p>

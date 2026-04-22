@@ -30,15 +30,15 @@ export function Layout() {
               </div>
               <div>
                 <h1 className="text-xl font-bold bg-gradient-to-r from-purple-600 to-pink-600 bg-clip-text text-transparent">
-                  AI Dance Coach
+                  BeatMotion
                 </h1>
-                <p className="text-xs text-gray-500">Professional Analysis Platform</p>
+                <p className="text-xs text-gray-500">AI Analysis Platform</p>
               </div>
             </div>
             <div className="flex items-center gap-4">
               <div className="flex items-center gap-2">
                 <div className="w-8 h-8 bg-gradient-to-br from-blue-500 to-purple-600 rounded-full" />
-                <span className="text-sm font-medium text-gray-700">Sarah Chen</span>
+                <span className="text-sm font-medium text-gray-700">Hassn </span>
               </div>
             </div>
           </div>
